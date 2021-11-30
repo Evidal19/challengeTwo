@@ -1,1 +1,2 @@
 # challengeTwo
+ A portfolio to demonstrate my work and to show jobs what I am capable of accomplishing. This profile will give a sneak peek of my capability as well as show examples of webpages I have created. This thask can help students understand the importance a profolio will have in the job field and how we can stand out from others with our designs. 
